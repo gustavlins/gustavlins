@@ -1,16 +1,43 @@
-## Hi there 👋
+# Ayo! I'm Gustavo Lins. 👋😄
 
-<!--
-**gustavlins/gustavlins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 **Developer** & **Systems Analyst**.
+- 🔧 **Currently working with**: Python, Java, HTML, CSS, JavaScript, TypeScript, and PostgreSQL.
+- 🎯 **Goals**: I’m looking to expand my knowledge by learning Django, Flask, and Spring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Fun facts about me:
+
+- 🌱 I’m always learning new technologies!
+- 🧠 Passionate about solving problems with code.
+- ⚡ I enjoy helping people grow in their coding journey.
+- 🎮 In my spare time, you might catch me coding, exploring new frameworks, or enjoying time with friends.
+
+---
+
+### Let’s get in touch! 📬
+
+Feel free to contact me via email or connect with me on LinkedIn:
+
+📧 **Email**: gustavohenriquelinsdeaviz@gmail.com  
+🔗 **LinkedIn**: [LinkedIn - Gustavo Lins](https://www.linkedin.com/in/gustavo-lins-338635202/)
+
+---
+
+```python
+gustavo = {
+  'name': 'Gustavo Lins',
+  'nickname': 'Gustavo',
+  'education': 'System Analyst',
+  'techs': [
+     'Python', 'PostgreSQL', 'Java', 'HTML', 'CSS', 'JavaScript', 'TypeScript'
+  ],
+  'goals': ['Django', 'Flask', 'Spring'],
+  'hobbies': ['coding', 'learning new tech', 'helping people', 'gaming', 'reading', 'gardening'],
+  'contact': "gustavo.lins.dev@gmail.com",
+  'socials': {
+    'linkedin': 'https://www.linkedin.com/in/gustavo-lins',
+  }
+}
