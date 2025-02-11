@@ -35,7 +35,7 @@ gustavo = {
      'Python', 'PostgreSQL', 'Java', 'HTML', 'CSS', 'JavaScript', 'TypeScript'
   ],
   'goals': ['Django', 'Flask', 'Spring'],
-  'hobbies': ['coding', 'learning new tech', 'helping people', 'gaming', 'reading', 'gardening'],
+  'hobbies': ['coding', 'learning new tech', 'D&D', 'Muay Thai', 'reading', 'gardening'],
   'contact': "gustavo.lins.dev@gmail.com",
   'socials': {
     'linkedin': 'https://www.linkedin.com/in/gustavo-lins',
