@@ -13,7 +13,7 @@
 - 🌱 I’m always learning new technologies!
 - 🧠 Passionate about solving problems with code.
 - ⚡ I enjoy helping people grow in their coding journey.
-- 🎮 In my spare time, you might catch me coding, exploring new frameworks, or enjoying time with friends.
+- 🎮 In my spare time, you might catch me coding, playing D&D, or enjoying time with friends.
 
 ---
 
