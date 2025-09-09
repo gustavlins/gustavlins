@@ -3,8 +3,8 @@
 ## About Me
 
 - 💻 **QA Assurance** & **Systems Analyst**.
-- 🔧 **Currently working with**: Python, Java, HTML, CSS, JavaScript.
-- 🎯 **Goals**: I’m looking to expand my knowledge by learning Django, Flask, and Spring.
+- 🔧 **Currently working with**: Python, Java, HTML, CSS, JavaScript, Cypress, Postman.
+- 🎯 **Goals**: I’m looking to expand my knowledge by learning Django, Flask, and Robot Framework.
 
 ---
 
