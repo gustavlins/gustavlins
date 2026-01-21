@@ -2,18 +2,17 @@
 
 ## About Me
 
-- 💻 **QA Assurance** & **Systems Analyst**.
-- 🔧 **Currently working with**: Python, Java, HTML, CSS, JavaScript, Cypress, Postman.
-- 🎯 **Goals**: I’m looking to expand my knowledge by learning Django, Flask, and Robot Framework.
+**QA Assurance** & **Systems Analyst**.
+**Currently working with**: Python, Java, HTML, CSS, JavaScript, Cypress, Postman.
+**Goals**: I’m looking to expand my knowledge by learning Django, Flask, and Robot Framework.
 
 ---
 
 ### Fun facts about me:
-
-- 🌱 I’m always learning new technologies!
-- 🧠 Passionate about solving problems with code.
-- ⚡ I enjoy helping people grow in their coding journey.
-- 🎮 In my spare time, you might catch me coding, playing D&D, or enjoying time with friends.
+I’m always learning new technologies!
+Passionate about solving problems with code.
+I enjoy helping people grow in their coding journey.
+In my spare time, you might catch me coding, playing D&D, or enjoying time with friends.
 
 ---
 
