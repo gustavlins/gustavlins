@@ -31,7 +31,7 @@ gustavo = {
   'nickname': 'Gustavo',
   'education': 'System Analyst',
   'techs': [
-     'Python', 'PostgreSQL', 'Java', 'HTML', 'CSS', 'JavaScript', 'TypeScript'
+     'Playwright', 'Cypress', 'Java', 'HTML', 'CSS', 'JavaScript', 'Postman'
   ],
   'goals': ['Django', 'Flask', 'Spring'],
   'hobbies': ['coding', 'learning new tech', 'D&D', 'Muay Thai', 'reading', 'gardening'],
