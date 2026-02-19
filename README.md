@@ -3,7 +3,7 @@
 ## About Me
 
 **QA Assurance** & **Systems Analyst**.
-**Currently working with**: Python, Java, HTML, CSS, JavaScript, Cypress, Postman.
+**Currently working with**: Python, Java, JavaScript, Cypress, Postman.
 **Goals**: I’m looking to expand my knowledge by learning Django, Flask, and Robot Framework.
 
 ---
