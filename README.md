@@ -16,13 +16,11 @@ In my spare time, you might catch me coding, playing D&D, or enjoying time with 
 
 ---
 
-### Let’s get in touch! 
+## Tools & Technologies
 
-Feel free to contact me via email or connect with me on LinkedIn:
-
-📧 **Email**: gustavohenriquelinsdeaviz@gmail.com  
-🔗 **LinkedIn**: [LinkedIn - Gustavo Lins](https://www.linkedin.com/in/gustavo-lins-338635202/)
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cypress,selenium,playwright,postman,js,java,nodejs,git,github" />
+</p>
 ---
 
 ```gustavo = {
@@ -90,4 +88,12 @@ Feel free to contact me via email or connect with me on LinkedIn:
   }
 }
   }
+  ```
+---
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lins-338635202/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.lins.dev@gmail.com)
+
 }
