@@ -61,12 +61,12 @@ gustavo = {
         "CI/CD for Testing",
         "Robot Framework"
     ]
-
-    ## Personal Interests
-    - Technology and continuous learning  
-    - RPG / Dungeons & Dragons  
-    - Problem solving with code  
-    - Training and personal development  
+```
+## Personal Interests
+- Technology and continuous learning  
+- RPG / Dungeons & Dragons  
+- Problem solving with code  
+- Training and personal development  
 
 ## Connect with Me
 
