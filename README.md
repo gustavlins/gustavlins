@@ -16,7 +16,7 @@ In my spare time, you might catch me coding, playing D&D, or enjoying time with 
 
 ---
 
-### Let’s get in touch! 📬
+### Let’s get in touch! 
 
 Feel free to contact me via email or connect with me on LinkedIn:
 
