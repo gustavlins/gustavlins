@@ -3,8 +3,8 @@
 ## About Me
 
 **QA Assurance** & **Systems Analyst**.
-**Currently working with**: Python, Java, JavaScript, Cypress, Postman.
-**Goals**: I’m looking to expand my knowledge by learning Django, Flask, and Robot Framework.
+**Currently working with**: Python, Java, JavaScript, Cypress, Appium, Postman.
+**Goals**: I’m looking to expand my knowledge by learning N8N, Zapier and Robot Framework.
 
 ---
 
@@ -25,18 +25,69 @@ Feel free to contact me via email or connect with me on LinkedIn:
 
 ---
 
-```python
-gustavo = {
-  'name': 'Gustavo Lins',
-  'nickname': 'Gustavo',
-  'education': 'System Analyst',
-  'techs': [
-     'Playwright', 'Cypress', 'Java', 'HTML', 'CSS', 'JavaScript', 'Postman'
+```gustavo = {
+  "name": "Gustavo Lins",
+  "role": "Quality Assurance Engineer | Test Automation",
+  "nickname": "Gustavo",
+  "postgraduate": "Software Testing Specialization",
+  "education": "Systems Analysis and Development",
+
+  "qa_focus": [
+    "Software Testing",
+    "Test Automation",
+    "API Testing",
+    "Functional Testing",
+    "End-to-End Testing"
   ],
-  'goals': ['Django', 'Flask', 'Spring'],
-  'hobbies': ['coding', 'learning new tech', 'D&D', 'Muay Thai', 'reading', 'gardening'],
-  'contact': "gustavo.lins.dev@gmail.com",
-  'socials': {
-    'linkedin': 'https://www.linkedin.com/in/gustavo-lins',
+
+  "testing_tools": [
+    "Cypress",
+    "Playwright",
+    "Postman"
+  ],
+
+  "programming": [
+    "JavaScript",
+    "Java",
+    "HTML",
+    "CSS"
+  ],
+
+  "testing_concepts": [
+    "BDD",
+    "Test Planning",
+    "Test Cases",
+    "Bug Reporting",
+    "Agile Testing"
+  ],
+
+  "currently_learning": [
+    "Automation Framework Design",
+    "CI/CD for Testing",
+    "Advanced Playwright Testing"
+  ],
+
+  "goals": [
+    "Software Quality Engineering",
+    "Automation Architecture",
+    "Continuous Testing",
+    "Test Strategy"
+  ],
+
+  "hobbies": [
+    "Coding",
+    "Learning new technologies",
+    "RPG",
+    "Muay Thai",
+    "Reading"
+  ],
+
+  "contact": "gustavohenriquelinsdeaviz@gmail.com",
+
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/gustavo-lins-338635202/",
+    "github": "https://github.com/gustavlins"
+  }
+}
   }
 }
