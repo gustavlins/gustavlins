@@ -1,99 +1,84 @@
-# Ayo! I'm Gustavo Lins. 👋😄
+# Hi, I'm Gustavo Lins 👋
 
-## About Me
-
-**QA Assurance** & **Systems Analyst**.
-**Currently working with**: Python, Java, JavaScript, Cypress, Appium, Postman.
-**Goals**: I’m looking to expand my knowledge by learning N8N, Zapier and Robot Framework.
+Quality Assurance Engineer focused on **test automation**, **API validation**, and **software quality**.  
+Background in **Systems Analysis and Development** with experience building automation projects and improving testing workflows.
 
 ---
 
-### Fun facts about me:
-I’m always learning new technologies!
-Passionate about solving problems with code.
-I enjoy helping people grow in their coding journey.
-In my spare time, you might catch me coding, playing D&D, or enjoying time with friends.
+## About Me
+
+- QA Engineer & Systems Analyst  
+- Interested in **Test Automation**, **Software Quality**, and **Automation Architecture**  
+- Currently working with **Python, Java, JavaScript, Cypress, Appium and Postman**  
+- Expanding knowledge in **Robot Framework, N8N and Zapier**
 
 ---
 
 ## Tools & Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cypress,selenium,playwright,postman,js,java,nodejs,git,github" />
+<p>
+<img src="https://skillicons.dev/icons?i=cypress,selenium,postman,js,java,python,nodejs,git,github" />
 </p>
+
 ---
 
-```gustavo = {
-  "name": "Gustavo Lins",
-  "role": "Quality Assurance Engineer | Test Automation",
-  "nickname": "Gustavo",
-  "postgraduate": "Software Testing Specialization",
-  "education": "Systems Analysis and Development",
+## QA Profile
 
-  "qa_focus": [
-    "Software Testing",
-    "Test Automation",
-    "API Testing",
-    "Functional Testing",
-    "End-to-End Testing"
-  ],
+```python
+gustavo = {
+    "role": "Quality Assurance Engineer",
+    "focus": [
+        "Software Testing",
+        "Test Automation",
+        "API Testing",
+        "End-to-End Testing",
+        "Functional Testing"
+    ],
 
-  "testing_tools": [
-    "Cypress",
-    "Playwright",
-    "Postman"
-  ],
+    "testing_tools": [
+        "Cypress",
+        "Playwright",
+        "Appium",
+        "Postman"
+    ],
 
-  "programming": [
-    "JavaScript",
-    "Java",
-    "HTML",
-    "CSS"
-  ],
+    "languages": [
+        "Python",
+        "Java",
+        "JavaScript"
+    ],
 
-  "testing_concepts": [
-    "BDD",
-    "Test Planning",
-    "Test Cases",
-    "Bug Reporting",
-    "Agile Testing"
-  ],
+    "testing_concepts": [
+        "BDD",
+        "Test Planning",
+        "Test Case Design",
+        "Bug Reporting",
+        "Agile Testing"
+    ],
 
-  "currently_learning": [
-    "Automation Framework Design",
-    "CI/CD for Testing",
-    "Advanced Playwright Testing"
-  ],
+    "learning": [
+        "Automation Framework Design",
+        "CI/CD for Testing",
+        "Robot Framework"
+    ]
 
-  "goals": [
-    "Software Quality Engineering",
-    "Automation Architecture",
-    "Continuous Testing",
-    "Test Strategy"
-  ],
+    ## Personal Interests
+    - Technology and continuous learning  
+    - RPG / Dungeons & Dragons  
+    - Problem solving with code  
+    - Training and personal development  
 
-  "hobbies": [
-    "Coding",
-    "Learning new technologies",
-    "RPG",
-    "Muay Thai",
-    "Reading"
-  ],
-
-  "contact": "gustavohenriquelinsdeaviz@gmail.com",
-
-  "socials": {
-    "linkedin": "https://www.linkedin.com/in/gustavo-lins-338635202/",
-    "github": "https://github.com/gustavlins"
-  }
-}
-  }
-  ```
----
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lins-338635202/)
+<p>
+<a href="https://www.linkedin.com/in/gustavo-lins-338635202/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.lins.dev@gmail.com)
+<a href="mailto:gustavohenriquelinsdeaviz@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 }
+
