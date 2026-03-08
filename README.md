@@ -9,8 +9,8 @@ Background in **Systems Analysis and Development** with experience building auto
 
 - QA Engineer & Systems Analyst  
 - Interested in **Test Automation**, **Software Quality**, and **Automation Architecture**  
-- Currently working with **Python, Java, JavaScript, Cypress, Appium and Postman**  
-- Expanding knowledge in **Robot Framework, N8N and Zapier**
+- Currently working with **Python, Java, JavaScript, Cypress and Postman**  
+- Expanding knowledge in **Appium, N8N and Zapier**
 
 ---
 
