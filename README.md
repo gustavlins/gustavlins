@@ -8,7 +8,7 @@ Background in **Systems Analysis and Development** with experience building auto
 ## About Me
 
 - QA Engineer & Systems Analyst  
-- Interested in **Test Automation**, **Software Quality**, and **Automation Architecture**  
+- Interested in **Test Automation** and **Software Quality**  
 - Currently working with **Python, Java, JavaScript, Cypress and Postman**  
 - Expanding knowledge in **Appium, N8N and Zapier**
 
@@ -37,8 +37,6 @@ gustavo = {
 
     "testing_tools": [
         "Cypress",
-        "Playwright",
-        "Appium",
         "Postman"
     ],
 
