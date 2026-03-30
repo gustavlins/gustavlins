@@ -17,7 +17,7 @@ Background in **Systems Analysis and Development** with experience building auto
 ## Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=cypress,selenium,postman,js,java,python,nodejs,git,github" />
+<img src="https://skillicons.dev/icons?i=cypress,gherkin,postman,js,java,python,nodejs,git,github, githubactions" />
 </p>
 
 ---
