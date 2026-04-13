@@ -12,7 +12,6 @@ Background in **Systems Analysis and Development** with experience building auto
 - Currently working with **Python, Java, JavaScript, Cypress and Postman**  
 - Expanding knowledge in **Appium, N8N and Zapier**
 
----
 
 ## Tools & Technologies
 
