@@ -3,8 +3,6 @@
 Quality Assurance Engineer focused on **test automation**, **API validation**, and **software quality**.  
 Background in **Systems Analysis and Development** with experience building automation projects and improving testing workflows.
 
----
-
 ## About Me
 
 - QA Engineer & Systems Analyst  
@@ -18,8 +16,6 @@ Background in **Systems Analysis and Development** with experience building auto
 <p>
 <img src="https://skillicons.dev/icons?i=cypress,gherkin,postman,js,java,python,nodejs,git,github,githubactions"/>
 </p>
-
----
 
 ## QA Profile
 
@@ -59,7 +55,7 @@ gustavo = {
         "Robot Framework"
     ]
 }
-```
+
 ## Personal Interests
 - Technology and continuous learning  
 - RPG / Dungeons & Dragons  
