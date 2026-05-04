@@ -58,7 +58,8 @@ gustavo = {
 
 ## Personal Interests
 - Technology and continuous learning  
-- RPG / Dungeons & Dragons  
+- RPG / Dungeons & Dragons
+- Gaming Dev
 - Problem solving with code  
 - Training and personal development  
 
