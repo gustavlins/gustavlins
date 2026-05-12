@@ -1,24 +1,28 @@
 # Gustavo Lins 👾
 
-Sou QA Engineer com fundo em Análise de Sistemas — mas honestamente, minha
-cabeça nunca para de pensar em sistemas, fluxos e formas de quebrar (e
-consertar) as coisas. Trabalho com automação de testes, validação de APIs e
-qualidade de software. Fora do trabalho, estou construindo meu primeiro jogo.
+QA Engineer with a background in Systems Analysis. My brain is basically wired
+to think in flows, edge cases, and failure points — which makes breaking things
+professionally a pretty good fit.
+
+I work with test automation, API validation, and software quality. When I'm
+not hunting bugs, I'm usually building something on the side or getting wrecked
+in a D&D campaign.
 
 ---
 
-## O que faço
+## What I do
 
-Garanto que o software funciona — e funciona de verdade, não só na demo.
-Minha rotina envolve testes automatizados, pipelines de CI/CD e aquela
-satisfação específica de encontrar um bug que ninguém tinha visto.
+I make sure software actually works — not just on the happy path.  
+My day-to-day involves automated test suites, CI/CD pipelines, and that very
+specific satisfaction of catching a bug before it hits production.
 
-- **Automação de testes** com Cypress e Postman  
-- **Testes de API** com foco em contratos e edge cases  
-- **BDD**, escrita de casos de teste e planejamento de cobertura  
-- Trabalhando com **Python, Java e JavaScript** no dia a dia  
-- Explorando **Appium** (mobile) e automação de workflows com **N8N / Zapier**
+- **Test Automation** with Cypress and Postman  
+- **API Testing** focused on contracts, edge cases, and unhappy paths  
+- **BDD**, test case design, and coverage planning  
+- Writing in **Python, Java, and JavaScript** depending on what the job needs  
+- Currently digging into **Appium** (mobile) and workflow automation with **N8N / Zapier**
 
+---
 
 ## Stack
 
@@ -28,31 +32,31 @@ satisfação específica de encontrar um bug que ninguém tinha visto.
 
 ---
 
-## Em resumo
+## TL;DR
 
 ```python
 gustavo = {
     "role": "QA Engineer",
-    "atualmente": "Construindo automações de dia, jogos de noite",
-    "foco": [
+    "currently": "Automating tests by day, building games by night",
+    "focus": [
         "Test Automation",
         "API Testing",
         "End-to-End Testing",
         "BDD & Test Design",
     ],
-    "aprendendo": [
+    "learning": [
         "Appium",
-        "CI/CD para testes",
-        "Desenvolvimento de jogos (Luau / Roblox)",
+        "CI/CD for testing pipelines",
+        "Game Dev (Luau / Roblox)",
     ],
-    "fora_do_código": ["D&D", "RPG", "Games", "Filmes Noir"],
-    "motivação": "Construir coisas que funcionam — e entender por quê funcionam",
+    "off_the_clock": ["D&D", "RPG", "Games", "Noir Films"],
+    "drive": "Build things that actually work — and understand why they do",
 }
 ```
 
 ---
 
-## Vamos conversar
+## Let's talk
 
 <p>
   <a href="https://www.linkedin.com/in/gustavo-lins-338635202/">
