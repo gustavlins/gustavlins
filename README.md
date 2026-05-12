@@ -7,7 +7,7 @@ qualidade de software. Fora do trabalho, estou construindo meu primeiro jogo.
 
 ---
 
-## O que faço de dia 🔍
+## O que faço
 
 Garanto que o software funciona — e funciona de verdade, não só na demo.
 Minha rotina envolve testes automatizados, pipelines de CI/CD e aquela
@@ -19,19 +19,6 @@ satisfação específica de encontrar um bug que ninguém tinha visto.
 - Trabalhando com **Python, Java e JavaScript** no dia a dia  
 - Explorando **Appium** (mobile) e automação de workflows com **N8N / Zapier**
 
----
-
-## O que faço de noite 🎮
-
-Estou aprendendo desenvolvimento de jogos na prática — construindo um jogo
-no Roblox com **Luau**, arquitetura Client-Server, módulos organizados via
-**Rojo + VS Code** e boas práticas de segurança contra exploits. É a fusão
-perfeita entre engenharia e criatividade.
-
-Também sou jogador de **RPG e Dungeons & Dragons** — o que, se você pensar
-bem, é só design de sistemas com dados e história.
-
----
 
 ## Stack
 
