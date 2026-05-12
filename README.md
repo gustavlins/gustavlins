@@ -45,7 +45,7 @@ gustavo = {
         "CI/CD para testes",
         "Desenvolvimento de jogos (Luau / Roblox)",
     ],
-    "fora_do_código": ["D&D", "RPG", "Games", "Resolver problemas por diversão"],
+    "fora_do_código": ["D&D", "RPG", "Games", "Filmes Noir"],
     "motivação": "Construir coisas que funcionam — e entender por quê funcionam",
 }
 ```
