@@ -28,8 +28,6 @@ specific satisfaction of catching a bug before it hits production.
   <img src="https://skillicons.dev/icons?i=cypress,postman,js,java,python,nodejs,git,github,githubactions"/>
 </p>
 
----
-
 ## TL;DR
 
 ```python
