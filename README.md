@@ -1,7 +1,7 @@
 # Gustavo Lins 👾
 
 QA Engineer with a background in Systems Analysis. My brain is basically wired
-to think in flows, edge cases, and failure points — which makes breaking things
+to think in flows, edge cases, and failure points, which makes breaking things
 professionally a pretty good fit.
 
 I work with test automation, API validation, and software quality. When I'm
@@ -12,7 +12,7 @@ in a D&D campaign.
 
 ## What I do
 
-I make sure software actually works — not just on the happy path.  
+I make sure software actually works; not just on the happy path.  
 My day-to-day involves automated test suites, CI/CD pipelines, and that very
 specific satisfaction of catching a bug before it hits production.
 
@@ -56,7 +56,7 @@ gustavo = {
 
 ---
 
-## Let's talk
+## Let's talk a bit
 
 <p>
   <a href="https://www.linkedin.com/in/gustavo-lins-338635202/">
