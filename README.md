@@ -8,8 +8,6 @@ I work with test automation, API validation, and software quality. When I'm
 not hunting bugs, I'm usually building something on the side or getting wrecked
 in a D&D campaign.
 
----
-
 ## What I do
 
 I make sure software actually works; not just on the happy path.  
