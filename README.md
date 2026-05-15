@@ -15,8 +15,7 @@ My day-to-day involves automated test suites, CI/CD pipelines, and that very
 specific satisfaction of catching a bug before it hits production.
 
 - **Test Automation** with Cypress and Postman  
-- **API Testing** focused on contracts, edge cases, and unhappy paths  
-- **BDD**, test case design, and coverage planning  
+- **API Testing** focused on contracts, edge cases, and unhappy paths
 - Writing in **Python, Java, and JavaScript** depending on what the job needs  
 - Currently digging into **Appium** (mobile) and workflow automation with **N8N / Zapier**
 
